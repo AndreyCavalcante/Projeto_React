@@ -1,0 +1,86 @@
+{
+  "projects": [
+    {
+      "id": "a8f5",
+      "name": "Criação do software de controle",
+      "budget": "35000",
+      "categoria": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 11000,
+      "services": [
+        {
+          "name": "Contratação de um dev React",
+          "description": "Contratação de um dev react para fazer um freelancer na empresa",
+          "cost": "1000",
+          "id": "4eb615b7-5573-4d6a-9230-50477bb3c557"
+        },
+        {
+          "name": "Deployar",
+          "description": "Deployar o projeto",
+          "cost": "10000",
+          "id": "cd62af2a-fc60-404c-b339-2e243b886789"
+        }
+      ]
+    },
+    {
+      "id": "f7b0",
+      "name": "Design do software de controle",
+      "budget": "20000",
+      "categoria": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Novo serviço",
+          "description": "Adicionando um novo serviço",
+          "cost": "2000",
+          "id": "55d1b800-7da3-4da4-8640-40089d4f543b"
+        }
+      ]
+    },
+    {
+      "id": "7f93",
+      "name": "Planejamento do software de controle",
+      "budget": "20000",
+      "categoria": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a396",
+      "name": "Atualização da rede de computadores",
+      "budget": "6000",
+      "categoria": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
